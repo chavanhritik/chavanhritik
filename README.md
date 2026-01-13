@@ -1,6 +1,6 @@
 - 👋 Hi, I’m hritik chavan @chavanhritik
 - 👀 I’m interested in coding and web development
-- 🌱 I’m currently learning java full stack
+- 🌱 I’m currently learning python full stack
 - 📫 reach me on insta @hritk_chavan_24
 
 <!---
